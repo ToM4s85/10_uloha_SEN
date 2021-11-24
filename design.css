@@ -1,0 +1,36 @@
+#uloha1 {
+  position: relative;
+  left: 50px;
+  top: 20px;
+}
+
+#uloha2 {
+  position: relative;
+  bottom: 20px;
+  left: 325px;
+}
+
+#uloha3 {
+  position: absolute;
+  left: 90px;
+  top: 175px;
+}
+
+#uloha4 {
+  position: absolute;
+  bottom: -200px;
+  right: -50px;
+}
+
+#uloha5 {
+  position: absolute;
+  left: 20px;
+  top: 250px;
+  border: 1px solid red;
+}
+
+
+footer {
+  position: relative;
+  top: 250px;
+}
